@@ -1,4 +1,6 @@
+NAME-RAJYASRI,SECTION-3, ROLL NO. N26V01A0252
 # LUXELO-fashion-studio-1
+DEPLOY LINK: https://luxelofashionstudio-1.vercel.app
 # 👗 LUXELO – Fashion Studio
 
 A modern, responsive e-commerce fashion storefront built with **HTML5**, **CSS3**, and **Vanilla JavaScript** as a B.Tech mini web development project. Designed with a luxury editorial aesthetic featuring a cream, warm beige, blush pink, and obsidian black palette.
